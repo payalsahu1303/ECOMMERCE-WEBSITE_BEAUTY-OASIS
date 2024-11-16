@@ -31,12 +31,12 @@ To run the website locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/glowing-ecommerce.git
+    git clone https://github.com/payalsahu1303/ECOMMERCE-WEBSITE_BEAUTY-OASIS.git
     ```
 
 2. Navigate into the project directory:
     ```bash
-    cd glowing-ecommerce
+    cd ECOMMERCE-WEBSITE_BEAUTY-OASIS
     ```
 
 3. Open the `index.html` file in your browser to view the website.
